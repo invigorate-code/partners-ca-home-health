@@ -1887,6 +1887,7 @@ article.pd-content {
   padding-bottom: 15px;
   padding-top: 10px;
   position: relative;
+  min-height: 270px
 }
 .ulockd-srvc-column-two::before {
   bottom: 0;
@@ -3467,6 +3468,7 @@ h2.title-inner {
 }
 .ulockd-footer-logo {
   margin-bottom: 20px;
+  width: 70%
 }
 .ulockd-footer-log {
   margin-bottom: 20px;
